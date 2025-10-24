@@ -57,7 +57,6 @@ They demonstrate my practical ability to:
 ## 📫 Contact
 📧 **Email:** rajvirvagela@gmail.com  
 📍 **Location:** Swift Current, Saskatchewan  
-🌐 **LinkedIn:** linkedin.com/in/rajveersinh9 (optional)  
 🧰 **GitHub:** github.com/Rajveersinh9  
 
 ---
